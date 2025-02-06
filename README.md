@@ -1,1 +1,0 @@
-# qr-zap-app-text
